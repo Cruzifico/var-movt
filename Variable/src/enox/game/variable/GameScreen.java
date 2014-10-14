@@ -1,3 +1,7 @@
+/*
+author: Francisco Sanchez
+description: main class, displays selection
+*/
 package enox.game.variable;
 
 import java.util.List;
